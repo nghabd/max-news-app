@@ -1,0 +1,7 @@
+{
+	"prettier.useEditorConfig": true,
+	"editor.tokenColorCustomizations": {
+		"comments": "",
+		"textMateRules": []
+	}
+}
